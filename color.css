@@ -1,4 +1,19 @@
+li{
+    color: crimson;
+}
+li span{
+    color: blue;
+}
 h2{
     color: crimson;
-    font-size: 40px;
+    font-size: 35px;
+}
+h1{
+    color: blue;
+}
+h3{
+    text-decoration: underline;
+    text-decoration-color: burlywood;
+    color: burlywood;
+    font-size: 30px;
 }
